@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Redux toolkit**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cae4c.web.app/](https://portfolio-cae4c.web.app/)
+- 👨‍💻 All of my projects are available at [https://mdrifatportfolio.netlify.app/](https://mdrifatportfolio.netlify.app/)
 
 - 💬 Ask me about **React, MERN**
 
