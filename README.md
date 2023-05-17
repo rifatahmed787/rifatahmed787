@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Redux toolkit**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://mdrifatportfolio.netlify.app/](https://mdrifatportfolio.netlify.app/)
 
