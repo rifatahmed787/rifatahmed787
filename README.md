@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **MySql**
 
 - 👨‍💻 All of my projects are available at [https://mdrifat-dev-portfolio.netlify.app/](https://mdrifat-dev-portfolio.netlify.app/)
 
